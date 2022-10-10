@@ -1,0 +1,57 @@
+.head{background-color:blue; 
+      padding: 5px;}
+.heading{text-align: center; 
+          font-family: Verdana, Geneva, Tahoma, sans-serif; 
+          color: cornsilk;}
+.small-heading{text-align: center;
+               color: yellow;
+               background-color:brown;}
+.main{width:auto}
+.signup-form{text-align: center;
+                background-color: whitesmoke; 
+                width:24%;
+                border:2px solid black;
+                border-radius: 5px;
+                padding: 10px;
+                margin-left:38%;
+                box-shadow: black 2px;}
+.signup-form form input{margin:5px; padding:5px; 
+                        border:2px solid burlywood;
+                        border-radius: 3px;}
+.signup-form form button{margin:5px; padding:5px; 
+                        border:2px solid yellowgreen; 
+                        border-radius: 5px; 
+                        font-weight: bolder;
+                        background-color: lightblue;}
+.category{margin-left:70px;}
+.category-log{padding: 3px;
+              width: 100%; 
+              background-color:cornflowerblue; 
+              font-family:sans-serif;}
+.select{margin-top:10px; 
+        margin-bottom: 10px; 
+        margin-left: 70px; 
+        border:2px solid black;
+        border-radius:7px;
+        background-color: orange;
+        color:floralwhite;
+        height: 30px;}
+.select-head{font-weight: bolder; 
+            background-color:orangered;}
+.table{width:100%;}
+.about-myc{font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.myc{margin:10px;}
+.middle{background-color: thistle; 
+        padding: 10px;}
+.footer{background-color: darkblue; 
+         color: white;
+          font-family: sans-serif;
+           padding:10px;}
+.footer table,tr,td{ padding-top:3px;
+                   padding-bottom:3px;
+                   padding-left:30px;
+                  padding-right:30px;}
+.table-header{color:lightgray;}
+a{ color:white;
+     text-decoration: none;}
+a:hover{text-decoration: underline;}
